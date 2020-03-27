@@ -1,0 +1,9 @@
+Building wildcoin
+
+See doc/readme-qt.rst for instructions on building wildcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of wildcoin.
+
+See doc/build-*.txt for instructions on building wildcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of wildcoin.

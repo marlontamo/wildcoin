@@ -1,0 +1,34 @@
+src/*.exe
+src/wildcoin
+src/wildcoind
+src/test_wildcoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.wildcoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+wildcoin-qt
+wildcoin-Qt.app
+
+# Unit-tests
+Makefile.test
+wildcoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
