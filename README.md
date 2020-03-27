@@ -1,0 +1,2 @@
+# wildcoin
+creating my cryptocurrency
